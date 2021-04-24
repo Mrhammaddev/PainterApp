@@ -1,4 +1,4 @@
-# temp
+# Painter App
 
 A new Flutter project.
 
